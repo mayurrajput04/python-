@@ -20,3 +20,17 @@ None : None
 Funtions, modules, classes
 
 Advance: Decorators, Generators, Iterators, MetaProgramming
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+@ Python mutable data types:(which can be changed or tend to change after assigning to a variable)
+-Lists
+-Dictionaries
+-Sets
+-User-Defined Classes (It depends on the user to define the characteristics of the classes)
+
+@ Python immutable data types:(which cannot be changed after assigning to a variable, but the reference can be manipulated)
+-Numbers (Integer, Float, Complex, Decimal, Rational & Booleans)
+-Tuples
+-Strings
+-Frozen Sets
